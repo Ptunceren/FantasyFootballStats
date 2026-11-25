@@ -1,0 +1,16 @@
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+
+# FantasyFootballStats
+
+This package is for fantasy football analysis. 
+
+The goal of FantasyFootballStats is to offer insight on specific statistical calculations about individual teams in fantasy football compared to each other.
+
