@@ -1,6 +1,3 @@
-#library(FantasyFootballStats)
-#read.csv(FF_data.csv)
-#str(FF_data)
 
 MedianFranchiseAge <- function(x){
   Franchise_Luke <- median(FF_data$age[1:31])
