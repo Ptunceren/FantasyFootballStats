@@ -1,4 +1,0 @@
-#' @export
-Median <- function(x){
-
-}
