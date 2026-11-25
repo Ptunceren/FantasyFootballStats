@@ -3,7 +3,7 @@ Title: Fantasy Football statistics
 Version: 0.0.0.9000
 Authors@R: 
     person("Paul", "Tunceren", , "Ptunceren@yahoo.com", role = c("aut", "cre"))
-Description: Calculates Fantasy Football information with revealing functions.
+Description: Fantasy Football age analysis. 
 License: MIT + file LICENSE
 Config/roxygen2/version: 8.1.1
 Encoding: UTF-8
